@@ -1,0 +1,2003 @@
+{
+  "videos": {
+    "1": {
+      "youtubeID": "1u0ctb9N",
+      "title": "Javascript Programming Quiz",
+      "noq": 5
+    },
+    "2": {
+      "youtubeID": "1u0o0Y3J",
+      "title": "Java Programming Quiz",
+      "noq": 5
+    },
+    "3": {
+      "youtubeID": "1u0zZM4W",
+      "title": "HTML Programming Quiz",
+      "noq": 5
+    },
+    "4": {
+      "youtubeID": "1u0RKEat",
+      "title": "Jquery Programming Quiz",
+      "noq": 5
+    },
+    "5": {
+      "youtubeID": "1u1b79nc",
+      "title": "Android Programming Quiz",
+      "noq": 5
+    },
+    "6": {
+      "youtubeID": "1u1fINz4",
+      "title": "CSS Programming Quiz",
+      "noq": 5
+    },
+    "7": {
+      "youtubeID": "1u1lv8dq",
+      "title": "Python Programming Quiz",
+      "noq": 5
+    },
+    "8": {
+      "youtubeID": "1u1rDmjg",
+      "title": "Ruby Programming Quiz",
+      "noq": 5
+    }
+  },
+  "quiz": {
+    "1u0ctb9N": {
+      "questions": [
+        {
+          "title": "Javascript is an _______ language?",
+          "options": [
+            {
+              "title": "Object-Oriented"
+            },
+            {
+              "title": "Object Based"
+            },
+            {
+              "title": "Procedural"
+            },
+            {
+              "title": "None of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following keywords is used to define a variable in Javascript?",
+          "options": [
+            {
+              "title": "var"
+            },
+            {
+              "title": "let"
+            },
+            {
+              "title": "Both var & let"
+            },
+            {
+              "title": "None of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following methods is used to access HTML elements using Javascript?",
+          "options": [
+            {
+              "title": "getElementbyId()"
+            },
+            {
+              "title": "getElementsByClassName()"
+            },
+            {
+              "title": "Both A & B"
+            },
+            {
+              "title":"None of the above"
+            }
+          ]
+        },
+        {
+          "title": "What keyword is used to check whether a given property is valid or not?",
+          "options": [
+            {
+              "title": "in"
+            },
+            {
+              "title": "is in"
+            },
+            {
+              "title": "exists"
+            },
+            {
+              "title": "lies"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following methods can be used to display data in some form using Javascript?",
+          "options": [
+            {
+              "title": "document.write()"
+            },
+            {
+              "title": "console.log()"
+            },
+            {
+              "title": "window.alert()"
+            },
+            {
+              "title": "getElementbyId()"
+            }
+          ]
+        }
+      ]
+    },
+    "1u0o0Y3J": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995"
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape"
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich"
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021"
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "WC-g0JtEIwM": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995"
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape"
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich"
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021"
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "CHnTTzD1pAQ": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995"
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape"
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich"
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021"
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "PHy8h0BixKA": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995"
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape"
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich"
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021"
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "2C5834qx0sA": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995"
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape"
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich"
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021"
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "qImH1bFubW4": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var"
+            },
+            {
+              "title": "with let"
+            },
+            {
+              "title": "with const"
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995"
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape"
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich"
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021"
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "answers": {
+    "1u0ctb9N": {
+      "questions": [
+        {
+          "title": "Javascript is an _______ language?",
+          "options": [
+            {
+              "title": "Object-Oriented",
+              "correct":true
+            },
+            {
+              "title": "Object Based"
+            },
+            {
+              "title": "Procedural"
+            },
+            {
+              "title": "None of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following keywords is used to define a variable in Javascript?",
+          "options": [
+            {
+              "title": "var"
+            },
+            {
+              "title": "let"
+            },
+            {
+              "title": "Both var & let",
+              "correct":true
+            },
+            {
+              "title": "None of the above"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following methods is used to access HTML elements using Javascript?",
+          "options": [
+            {
+              "title": "getElementbyId()"
+            },
+            {
+              "title": "getElementsByClassName()"
+            },
+            {
+              "title": "Both A & B",
+              "correct":true
+            },
+            {
+              "title":"None of the above"
+            }
+          ]
+        },
+        {
+          "title": "What keyword is used to check whether a given property is valid or not?",
+          "options": [
+            {
+              "title": "in",
+              "correct":true
+            },
+            {
+              "title": "is in"
+            },
+            {
+              "title": "exists"
+            },
+            {
+              "title": "lies"
+            }
+          ]
+        },
+        {
+          "title": "Which of the following methods can be used to display data in some form using Javascript?",
+          "options": [
+            {
+              "title": "document.write()",
+              "correct":true
+            },
+            {
+              "title": "console.log()",
+              "correct":true
+            },
+            {
+              "title": "window.alert()",
+              "correct":true
+            },
+            {
+              "title": "getElementbyId()"
+            }
+          ]
+        }
+      ]
+    },
+    "5Xy-t8k_M4A": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995",
+              "correct": true
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape",
+              "correct": true
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich",
+              "correct": true
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021",
+              "correct": true
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "WC-g0JtEIwM": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995",
+              "correct": true
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape",
+              "correct": true
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich",
+              "correct": true
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021",
+              "correct": true
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "CHnTTzD1pAQ": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995",
+              "correct": true
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape",
+              "correct": true
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich",
+              "correct": true
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021",
+              "correct": true
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "PHy8h0BixKA": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995",
+              "correct": true
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape",
+              "correct": true
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich",
+              "correct": true
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021",
+              "correct": true
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "2C5834qx0sA": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995",
+              "correct": true
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape",
+              "correct": true
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich",
+              "correct": true
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021",
+              "correct": true
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    },
+    "qImH1bFubW4": {
+      "questions": [
+        {
+          "title": "How to declare JavaScript variables?",
+          "options": [
+            {
+              "title": "with var",
+              "correct": true
+            },
+            {
+              "title": "with let",
+              "correct": true
+            },
+            {
+              "title": "with const",
+              "correct": true
+            },
+            {
+              "title": "with variable"
+            },
+            {
+              "title": "with declare"
+            },
+            {
+              "title": "with new"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "with string"
+            },
+            {
+              "title": "with boolean"
+            },
+            {
+              "title": "with nothing"
+            }
+          ]
+        },
+        {
+          "title": "When was JavaScript invented?",
+          "options": [
+            {
+              "title": "September 1998"
+            },
+            {
+              "title": "October 1999"
+            },
+            {
+              "title": "September 1995",
+              "correct": true
+            },
+            {
+              "title": "September 1993"
+            },
+            {
+              "title": "August 1990"
+            },
+            {
+              "title": "January 1995"
+            },
+            {
+              "title": "with number"
+            },
+            {
+              "title": "December 1995"
+            },
+            {
+              "title": "March 1996"
+            },
+            {
+              "title": "January 1970"
+            }
+          ]
+        },
+        {
+          "title": "Who or which company created JavaScript?",
+          "options": [
+            {
+              "title": "Jordan Walke"
+            },
+            {
+              "title": "Netscape",
+              "correct": true
+            },
+            {
+              "title": "Jack Ma"
+            },
+            {
+              "title": "Nayok Razzaq"
+            },
+            {
+              "title": "Takla Rubel"
+            },
+            {
+              "title": "Tarzan"
+            },
+            {
+              "title": "Brendan Eich",
+              "correct": true
+            },
+            {
+              "title": "Mark Zuckerburg"
+            },
+            {
+              "title": "Bill Gates"
+            },
+            {
+              "title": "Steve Jobs"
+            }
+          ]
+        },
+        {
+          "title": "What is the latest version of ECMAScript",
+          "options": [
+            {
+              "title": "ES2020"
+            },
+            {
+              "title": "ES2021",
+              "correct": true
+            },
+            {
+              "title": "ES6"
+            },
+            {
+              "title": "ES7"
+            },
+            {
+              "title": "ES8"
+            },
+            {
+              "title": "ES2022"
+            },
+            {
+              "title": "ES21"
+            },
+            {
+              "title": "ES3"
+            },
+            {
+              "title": "ES9"
+            },
+            {
+              "title": "ES2020"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
